@@ -1,4 +1,5 @@
 ### Hello there! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">  
+![Vst_Counter](https://komarev.com/ghpvc/?username=adal877&color=a8009d)  
 
 I'm Adalberto Luiz. Brazilian, living on Mogi Mirim, São Paulo. Studying analysis and systems development at  
 FATEC "Arthur de Azevedo", on third period, at morning.  
