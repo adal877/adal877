@@ -35,7 +35,6 @@ I'm using [FreeBSD](https://www.freebsd.org/) as my personal server OS I set wit
 ### Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=adalluiz&show_icons=true&theme=nightowl&hide_title=true&border_color=ac00b9" width="780">  
 
-
 ### Where to reach me  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/adalberto-junior-7050a1202)](https://linkedin.com/in/adalberto-junior-7050a1202)  
 ![Gmail Badge](https://img.shields.io/badge/-Gmail-fff?style=for-the-badge&logo=Gmail&logoColor=red) adaltt877@gmail.com  
