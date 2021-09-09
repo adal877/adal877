@@ -1,5 +1,5 @@
 ### Hello there! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">  
-![Visit_Counter](https://komarev.com/ghpvc/?username=adalluiz&color=a8009d)  
+![Visit_Counter](https://komarev.com/ghpvc/?username=adal877&color=a8009d)  
 
 I'm Adalberto Luiz. Brazilian, living on Mogi Mirim, São Paulo. Studying analysis and systems development at  
 FATEC "Arthur de Azevedo", on third period, at morning.  
@@ -33,7 +33,7 @@ I'm using [FreeBSD](https://www.freebsd.org/) as my personal server OS I set wit
 
 
 ### Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=adalluiz&show_icons=true&theme=nightowl&hide_title=true&border_color=ac00b9" width="780">  
+<img src="https://github-readme-stats.vercel.app/api?username=adal877&show_icons=true&theme=nightowl&hide_title=true&border_color=ac00b9" width="780">  
 
 ### Where to reach me  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/adalberto-junior-7050a1202)](https://linkedin.com/in/adalberto-junior-7050a1202)  
