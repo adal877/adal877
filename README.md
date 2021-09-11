@@ -7,6 +7,9 @@ FATEC "Arthur de Azevedo", on third period, at morning.
 ### What am I currently learning?  
 [![Cpp Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.geeksforgeeks.org/history-of-c/) [![Rust Badge](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=E57324)](https://rust-lang.org) [![JS Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://javascript.com)  [![P5 Badge](https://img.shields.io/badge/p5.JavaScript-ce07b9?style=for-the-badge&logo=p5.js&logoColor=black)](https://p5js.org)  
 
+<details>
+    <summary><b> CLICK TO SEE THE DETAILS OF MY PROFILE </b>
+    </summary>
 
 ### About me  
 * I have studied C language for one and a half year now  
@@ -31,7 +34,8 @@ I can only say that if I have to use any other IDE than Vim, I will choose VS.
 (I certainly liked the Void Linux as a desktop)  
 I'm using [FreeBSD](https://www.freebsd.org/) as my personal server OS I set with [Samba4](https://www.samba.org/) and SSH as my local file storage.  
 
-
+</details>
+  
 ### Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=adal877&show_icons=true&theme=nightowl&hide_title=true&border_color=ac00b9" width="780">  
 
