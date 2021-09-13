@@ -41,6 +41,6 @@ I'm using [FreeBSD](https://www.freebsd.org/) as my personal server OS I set wit
 
 ### Where to reach me  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/adalberto-junior-7050a1202)](https://linkedin.com/in/adalberto-junior-7050a1202)  
-![Gmail Badge](https://img.shields.io/badge/-Gmail-fff?style=for-the-badge&logo=Gmail&logoColor=red) adaltt877@gmail.com  
+<!-- ![Gmail Badge](https://img.shields.io/badge/-Gmail-fff?style=for-the-badge&logo=Gmail&logoColor=red) adaltt877@gmail.com -->
 Please, feel free to send me a private message or an email.  
 Stay in peace guys ❤️
