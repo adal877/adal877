@@ -8,7 +8,7 @@ FATEC "Arthur de Azevedo", on third period, at morning.
 [![Cpp Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.geeksforgeeks.org/history-of-c/) [![Rust Badge](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=E57324)](https://rust-lang.org) [![JS Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://javascript.com)  [![P5 Badge](https://img.shields.io/badge/p5.JavaScript-ce07b9?style=for-the-badge&logo=p5.js&logoColor=black)](https://p5js.org)  
 
 <details>
-    <summary><b> CLICK TO SEE THE DETAILS OF MY PROFILE </b>
+    <summary><b> CLICK TO SEE MORE DETAILS ABOUT ME </b>
     </summary>
 
 ### About me  
