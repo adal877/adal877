@@ -1,14 +1,14 @@
 ### Hello there! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">  
 ![Visit_Counter](https://komarev.com/ghpvc/?username=adal877&color=a8009d)  
 
-I'm Adalberto Luiz. Brazilian, living on Mogi Mirim, São Paulo. Studying analysis and systems development at  
-FATEC "Arthur de Azevedo", on third period, at morning.  
+I'm Adalberto Luiz. Brazilian, living in Mogi Mirim, São Paulo. Studying analysis and systems development at  
+FATEC "Arthur de Azevedo", on third period, in the morning.  
 
 ### What am I currently learning?  
 [![Cpp Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.geeksforgeeks.org/history-of-c/) [![Rust Badge](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=E57324)](https://rust-lang.org) [![JS Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://javascript.com)  [![P5 Badge](https://img.shields.io/badge/p5.JavaScript-ce07b9?style=for-the-badge&logo=p5.js&logoColor=black)](https://p5js.org)  
 
 <details>
-    <summary><b> CLICK TO SEE MORE DETAILS ABOUT ME </b>
+    <summary><b> More details about me </b>
     </summary>
 
 ### About me  
@@ -19,7 +19,7 @@ FATEC "Arthur de Azevedo", on third period, at morning.
 * for while I did only one project with [p5.js](https://p5js.org) on [Open Processing](https://openprocessing.org/sketch/1232029) (take a look).  
   It's a simple random walker, but I made several other codes, just did not upload yet (for a while).  
 * Currently using [Halmak keyboard layout with brazilian accents I did](https://github.com/adal877/xkb-layouts)  
-* For while, I didn't work like a professional programmer, but I'm looking for any opportunity  
+* For while, I didn't work as a professional programmer, but I'm looking for any opportunity  
 
 
 ### IDE 
