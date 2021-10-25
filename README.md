@@ -21,7 +21,7 @@ FATEC "Arthur de Azevedo", on third period, in the morning.
 * Currently using [Halmak keyboard layout with brazilian accents I did](https://github.com/adal877/xkb-layouts)  
 * For while, I didn't work as a professional programmer, but I'm looking for any opportunity  
 
-
+ 
 ### IDE 
 [![Vim Badge](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)](https://vim.org)  
 I have been using Vim for 5 years, but just now I'am comfy enough while using my [vimrc](https://github.com/adal877/Myvimrc.git) (take a look).  
