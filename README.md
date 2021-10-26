@@ -5,7 +5,7 @@ I'm Adalberto Luiz. Brazilian, living in Mogi Mirim, São Paulo. Studying analys
 FATEC "Arthur de Azevedo", on third period, in the morning.  
 
 ### What am I currently learning?  
-[![Cpp Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.geeksforgeeks.org/history-of-c/) [![Ruby Badge](https://img.shields.io/badge/Ruby-black?style=for-the-badge&logo=rubyt&logoColor=E57324)](https://www.ruby-lang.org/en/) [![JS Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://javascript.com)  [![P5 Badge](https://img.shields.io/badge/p5.JavaScript-ce07b9?style=for-the-badge&logo=p5.js&logoColor=black)](https://p5js.org)  
+[![Cpp Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.geeksforgeeks.org/history-of-c/) [![Ruby Badge](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/en/) [![JS Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://javascript.com)  [![P5 Badge](https://img.shields.io/badge/p5.JavaScript-ce07b9?style=for-the-badge&logo=p5.js&logoColor=black)](https://p5js.org)  
 
 <details>
     <summary><b> More details about me </b>
