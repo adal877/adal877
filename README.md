@@ -12,14 +12,14 @@ FATEC "Arthur de Azevedo", on fourth period.
     </summary>
 
 ### About me  
-* I have studied C language for one and a half year now  
+* I have studied C language for two year now  
 * Using linux as primary OS since 2013, when my computer suddenly stopped work with windows 7  
   (error: no operational system found, solution: install Ubuntu 🤷‍♂️)  
 * Since 2014 I'm studying bash and mainly RegEx  
 * for while I did only one project with [p5.js](https://p5js.org) on [Open Processing](https://openprocessing.org/sketch/1232029) (take a look).  
   It's a simple random walker, but I made several other codes, just did not upload yet (for a while).  
 * Currently using [Halmak keyboard layout with brazilian accents I did](https://github.com/adal877/xkb-layouts)  
-* For while, I didn't work as a professional programmer, but I'm looking for any opportunity  
+* Working as internship in apex developer on Beecloud, Mogi Mirim.  
 
  
 ### IDE 
