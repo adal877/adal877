@@ -2,10 +2,10 @@
     first_name: "Adalberto",
     last_name: "Junior",
     nick_name: "Adal",
-    social: new Map([
-        ["github", "https://github.com/adal877"],
-        ["linkedin", "https://linkedin.com/in/adalberto-junior-7050a1202"]
-    ]),
+    social: {
+        github: "https://github.com/adal877",
+        linkedin: "https://linkedin.com/in/adalberto-junior-7050a1202"
+    },
     skills: {
         soft: [
             "Communication",
@@ -39,22 +39,24 @@
         hard: {
             languages: ["Java", "Spring Boot", "SalesForce", "React"],
             linux: ["Debian linux", "Void linux", "Linux Server"],
-            idioms: new Map([
-                ["English",
-                    {
+            idioms:
+                {
+                    idiom: "English",
+                    level: {
                         writing: "####",
                         speaking: "###",
                         listening: "####"
                     }
-                ],
-                ["Russian",
-                    {
+                },
+                {
+                    idiom: "Russian",
+                    level: {
                         writing: "#",
                         speaking: "#",
                         listening: "#"
                     }
-                ]
-            ])
+                }
+            }
         }
     }
 }
