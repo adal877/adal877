@@ -1,4 +1,4 @@
-export const about_me = {
+{
     first_name: "Adalberto",
     last_name: "Junior",
     nick_name: "Adal",
