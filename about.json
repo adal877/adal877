@@ -1,13 +1,13 @@
 {
-    first_name: "Adalberto",
-    last_name: "Junior",
-    nick_name: "Adal",
-    social: {
-        github: "https://github.com/adal877",
-        linkedin: "https://linkedin.com/in/adalberto-junior-7050a1202"
+    "first_name": "Adalberto",
+    "last_name": "Junior",
+    "nick_name": "Adal",
+    "social": {
+        "github": "https://github.com/adal877",
+        "linkedin": "https://linkedin.com/in/adalberto-junior-7050a1202"
     },
-    skills: {
-        soft: [
+    "skills": {
+        "soft": [
             "Communication",
             "Teamwork",
             "Adaptability",
@@ -36,24 +36,24 @@
             "Conflict resolution",
             "Conflict management"
         ],
-        hard: {
-            languages: ["Java", "Spring Boot", "SalesForce", "React"],
-            linux: ["Debian linux", "Void linux", "Linux Server"],
-            idioms:
+        "hard": {
+            "languages": ["Java", "Spring Boot", "SalesForce", "React"],
+            "linux": ["Debian linux", "Void linux", "Linux Server"],
+            "idioms":
                 {
-                    idiom: "English",
-                    level: {
-                        writing: "####",
-                        speaking: "###",
-                        listening: "####"
+                    "idiom": "English",
+                    "level": {
+                        "writing": "####",
+                        "speaking": "###",
+                        "listening": "####"
                     }
                 },
                 {
-                    idiom: "Russian",
-                    level: {
-                        writing: "#",
-                        speaking: "#",
-                        listening: "#"
+                    "idiom": "Russian",
+                    "level": {
+                        "writing": "#",
+                        "speaking": "#",
+                        "listening": "#"
                     }
                 }
             }
